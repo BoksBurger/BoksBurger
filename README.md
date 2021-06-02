@@ -7,17 +7,17 @@ At the moment, I spend most of my time creating solutions with JavaScript.
 
 I was a bit late to the party when I dicovered that JavaScript can run outside the browser in 2018.
 
-Having to check if the academic website where I was expecting to find results to be published for a practical violin exam I did was cumbersome. 
+Having to check the academic website where I was expecting to find results to be published for a music exam I did, was cumbersome. 
 
 So I decided to automate the process.
 
-Looking for a way to run my JavaScript as a service somehow, I discovered NodeJS.
+I eagerly whipped up some code that would scrape the resluts and email it to me, but soon realised that my JavaScript would have to run as a service somehow.
 
-I eagerly whipped up some code that would scrape the resluts as soon as it got published and send me an email with the info.
+It was at this point I discovered NodeJS (out of necessity).
 
 On my Raspberry Pi I installed NodeJS to run the code at an hourly interval.
 
-When future me eventually received the email with the news that I have passed with extinction, I could not decide what I was happier about. My marks or my code slaving away for three weeks before the results finally got published.
+When future me eventually received the email with the news that I have passed with extinction, I could not decide if I was happier about my marks or my code slaving away for three weeks before the results finally got published.
 
 Since then I have expanded on what I have learned.
 
