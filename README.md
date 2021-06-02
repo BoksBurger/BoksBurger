@@ -7,11 +7,11 @@ At the moment, I spend most of my time creating solutions with JavaScript and No
 
 I was a bit late to the party when I dicovered that JavaScript can run outside the browser in 2018.
 
-On my Raspberry Pi I installed NodeJS that ran some code at an interval. It was monitoring results from an academic website where I was expecting to find results to be published for a practical violin exam I did.
+On my Raspberry Pi I installed NodeJS that ran some code at an interval that was monitoring an academic website where I was expecting to find results to be published for a practical violin exam I did.
 
 I was fed up having to check the resluts on a daily basis, so I automated the process.
 
-Looking for a way to run my JavaScript as a service, I discovered NodeJS.
+Looking for a way to run my JavaScript as a service somehow, I discovered NodeJS.
 
 My code would scrape the resluts as soon as it gets published. Compile an email with the info and send it to me.
 
