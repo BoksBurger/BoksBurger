@@ -15,12 +15,12 @@ Looking for a way to run my JavaScript as a service somehow, I discovered NodeJS
 
 My code would scrape the resluts as soon as it gets published. Compile an email with the info and send it to me.
 
-Since the I have expanded on what I have learned. 
+Since thee, I have expanded on what I have learned. 
 
-I now write API's with NodeJS on the server-side with ReactJS on the client.
+Now I create entire API's with NodeJS on the server with React for the user interface.
 
 ### In Closing
-Whatever I end up sharing here, I hope it either inspires you or save you some time in your own projects.
+Whatever I end up sharing here, I hope it either inspires you or saves you some time on your own projects.
 
 *Oh... and like world peace, I also strive to write readable, self-documenting, unicorn code*
 
