@@ -3,7 +3,7 @@
 
 I am a software developer with over 20 years of experience in web technologies.
 
-At the moment, I spend most of my time creating solutions with JavaScript and NodeJS.
+At the moment, I spend most of my time creating solutions with JavaScript.
 
 I was a bit late to the party when I dicovered that JavaScript can run outside the browser in 2018.
 
