@@ -1,7 +1,7 @@
 # Hello World!
 ### My name is Burger.
 
-I wrote my first peice of HTML and JavaScript in 1998 using notepad. More than 20 years later, I do pretty much the same thing.
+I wrote my first piece of HTML and JavaScript in 1998 using notepad. More than 20 years later, I do pretty much the same thing.
 
 At the moment, I spend most of my time creating solutions with JavaScript.
 
