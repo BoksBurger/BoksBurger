@@ -3,7 +3,7 @@
 
 I wrote my first piece of HTML and JavaScript in 1998 using notepad. More than 20 years later, I do pretty much the same thing.
 
-At the moment, I spend most of my time creating solutions with JavaScript. I love JavaScript!
+At the moment, I spend most of my time creating solutions with JavaScript. I love JavaScript! :heart:
 
 I hope that whatever I end up sharing here will either inspire you or at least save you some time on your own projects.
 
