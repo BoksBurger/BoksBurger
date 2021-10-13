@@ -7,7 +7,7 @@ At the moment, I spend most of my time creating solutions with JavaScript. I lov
 
 I hope that whatever I end up sharing here will either inspire you or at least save you some time on your own projects.
 
-*Oh... and like world peace, I also strive to write clean readable and self-documenting code*
+*Oh... and like world peace, I write clean, readable and self-documenting code*
 
  
 
