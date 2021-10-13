@@ -9,7 +9,7 @@ I hope that whatever I end up sharing here will either inspire you or at least s
 
 *Oh... and like world peace, I write clean, readable and self-documenting code*
 
-:star: Currently working on [HomeFinder](https://www.homefinder.co.za), made with React and node.js
+:star: Currently working on [HomeFinder](https://www.homefinder.co.za), using React and node.js
 :fire: Busy learning Flutter & Dart on Udemy
 
 
