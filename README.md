@@ -7,14 +7,8 @@ At the moment, I spend most of my time creating solutions with JavaScript. I lov
 
 I hope that whatever I end up sharing here will either inspire you or at least save you some time on your own projects.
 
-*Oh... and like world peace, I write clean, readable and self-documenting code*
+:star: I've recently competed the [HomeFinder](https://www.homefinder.co.za) project using React and node.js
 
-:star: Currently working on [HomeFinder](https://www.homefinder.co.za), using React and node.js
-:fire: Busy learning Flutter & Dart on Udemy
-
-
-
- 
 
 <!---
 BoksBurger/BoksBurger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
