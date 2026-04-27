@@ -10,10 +10,10 @@ When I am not orchestrating enterprise web stacks, you will find me at my desk w
 ### 🛠️ Tech Stack & Tools
 
 **Core Enterprise Stack**
-![C#](https://shields.io) ![.NET](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+![Static Badge](https://shields.io) ![Static Badge](https://shields.io) ![Static Badge](https://shields.io) ![Static Badge](https://shields.io)
 
 **Hardware & Low-Level**
-![ESP32](https://shields.io) ![C++](https://shields.io)
+![Static Badge](https://shields.io) ![Static Badge](https://shields.io)
 
 ---
 
