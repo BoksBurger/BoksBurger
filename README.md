@@ -1,6 +1,6 @@
-# Hello World, I'm Burger 👋
+# Hello World, my name is Burger
 
-### 👨‍💻 About Me
+### About Me
 I am a **Full Stack Engineer** currently building secure, high-stakes enterprise systems at **National Renal Care**. My core philosophy is to **build frictionless tools that do exactly what they say on the tin** without complicating the user's life or generating unnecessary support tickets. 
 
 When I am not orchestrating enterprise web stacks, you will find me at my desk with a soldering iron, tinkering with microcontrollers.
