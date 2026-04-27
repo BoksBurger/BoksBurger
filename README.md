@@ -1,16 +1,31 @@
-# 👋 Hello World!
-### My name is Burger.
+# Hello World, I'm Burger 👋
 
-I wrote my first piece of HTML and JavaScript in 1998 using notepad. More than 20 years later, I do pretty much the same thing.
+### 👨‍💻 About Me
+I am a **Full Stack Engineer** currently building secure, high-stakes enterprise systems at **Rush National Renal Care**. My core philosophy is simple: **I build frictionless tools that do exactly what they say on the tin** without complicating the user's life or generating unnecessary support tickets. 
 
-At the moment, I spend most of my time creating solutions with JavaScript. I love JavaScript! :heart:
+When I am not orchestrating enterprise web stacks, you will find me at my desk with a soldering iron, tinkering with microcontrollers.
 
-I hope that whatever I end up sharing here will either inspire you or at least save you some time on your own projects.
+---
 
-:star: I've recently competed the [HomeFinder](https://www.homefinder.co.za) project using React and node.js
+### 🛠️ Tech Stack & Tools
+
+**Core Enterprise Stack**
+![C#](https://shields.io) ![.NET](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+
+**Hardware & Low-Level**
+![ESP32](https://shields.io) ![C++](https://shields.io)
+
+---
+
+### 🔋 Current Focus
+* 🏥 Optimizing high-performance web tools for healthcare providers.
+* ⚡ Building IoT edge projects and custom firmware on ESP32 microcontrollers.
 
 
-<!---
-BoksBurger/BoksBurger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+---
+
+### 📫 Connect With Me
+* 💼 [LinkedIn](Your-LinkedIn-URL-Here)
+* 🌐 [Portfolio / Personal Site](Your-Website-URL-Here)
+-->
