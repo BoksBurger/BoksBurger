@@ -27,6 +27,13 @@ When I am not orchestrating enterprise web stacks, you will find me at my desk w
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 🎨 UI / Design Stack
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
 ---
 
 ### 🔋 Current Focus
